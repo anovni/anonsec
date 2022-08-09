@@ -8,7 +8,7 @@
 
 ➢ Sito Web: https://opanonita.wordpress.com/
 
-➢ Twitter: https://twitter.com/ANOVNI1
+➢ Twitter: https://twitter.com/opanonitareborn
           
 
 ![predator ddos cmd NON SOCK attack](https://user-images.githubusercontent.com/78624983/183539055-ac0cf00a-512a-4b80-b179-e9e97747db3f.PNG)
