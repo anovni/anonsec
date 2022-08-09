@@ -6,9 +6,7 @@
 
 💢 Gli sviluppatori non si assumono alcuna responsabilità e non sono responsabili per eventuali abusi o danni causati da questo programma.
 
-➢ Sito Web: https://opanonita.wordpress.com/
-
-➢ Twitter: https://twitter.com/opanonitareborn
+➢ Telegram: https://t.me/DDoS_attack_AR_WWANON
           
 
 ![predator ddos cmd NON SOCK attack](https://user-images.githubusercontent.com/78624983/183539055-ac0cf00a-512a-4b80-b179-e9e97747db3f.PNG)
