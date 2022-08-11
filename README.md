@@ -16,7 +16,7 @@
 
 1) git clone https://github.com/anovni/ITANONSEC.git
 
-2) cd ITANONSEC
+2) cd anonsec
 
 3) python3 anonsec.py
 
