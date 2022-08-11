@@ -14,7 +14,7 @@
 
 ➢ Come Usare ANONSEC 💻 
 
-1) git clone https://github.com/anovni/ITANONSEC.git
+1) git clone https://github.com/anovni/anonsec
 
 2) cd anonsec
 
