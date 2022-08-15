@@ -10,10 +10,11 @@
 ➢ Telegram: https://t.me/DDoS_attack_AR_WWANON
           
 
-![predator ddos cmd NON SOCK attack](https://user-images.githubusercontent.com/78624983/183539055-ac0cf00a-512a-4b80-b179-e9e97747db3f.PNG)
+![anonsec](https://user-images.githubusercontent.com/78624983/184732626-5087e9fb-1bc0-47c8-939f-fad35f0aa6c0.PNG)
 
 
-➢ Come Usare ANONSEC 💻 
+
+➢ Come Usare anonsec 💻 
 
 1) git clone https://github.com/anovni/anonsec.git
 
@@ -33,7 +34,7 @@
 
 9) 100
 
-10) INVIO‼️
+10) Enter
 
 
 
