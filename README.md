@@ -1,4 +1,5 @@
-![1](https://user-images.githubusercontent.com/78624983/183536433-25f4c6b4-074b-4498-96c2-87ab8d5f10d1.jpg)
+![photo_2022-08-15_22-15-30](https://user-images.githubusercontent.com/78624983/184710875-9ac9a360-e12c-49d9-976c-7bab415263f4.jpg)
+
 
 ⚠️ L'uso di ANONSEC per attaccare obiettivi senza previo consenso reciproco è illegale.
 
