@@ -13,7 +13,7 @@ white = "\033[1;97m"
 orange = "\033[1;31m"
 end = "\033[1;92m"
 
-design = f"                        {white}NOI {red}SIAMO {green}ANONYMOUS {end}"
+design = f"                    {white}NOI {red}SIAMO {green}ANONYMOUS {end}"
 print(f'''
 {green}
   █████╗ ███╗   ██╗ ██████╗ ███╗   ██╗███████╗███████╗ ██████╗
@@ -22,7 +22,7 @@ print(f'''
  ██╔══██║██║╚██╗██║██║   ██║██║╚██╗██║╚════██║██╔══╝  ██║       
  ██║  ██║██║ ╚████║╚██████╔╝██║ ╚████║███████║███████╗╚██████╗
  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝ ╚═════╝ 
-                     -DDoS Tool by @OpAnonItaReborn
+                 -DDoS Tool by @OpAnonItaReborn
 
     {design * 1}
 
