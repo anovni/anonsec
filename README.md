@@ -1,4 +1,6 @@
-![photo_2022-08-15_22-15-30](https://user-images.githubusercontent.com/78624983/184710875-9ac9a360-e12c-49d9-976c-7bab415263f4.jpg)
+![anonsecmain](https://user-images.githubusercontent.com/78624983/201806206-59b4c085-9690-4f2c-92fc-56ff79b2227d.PNG)
+
+
 
 
 ⚠️ L'uso di anonsec per attaccare obiettivi senza previo consenso reciproco è illegale.
@@ -10,10 +12,7 @@
 ➢ Telegram AnonSecIta: https://t.me/AnonSecITA
           
 
-![anonsec main](https://user-images.githubusercontent.com/78624983/201805500-8df6fe0c-0b52-4c6c-b5db-4d6735a63ff4.PNG)
-
-
-
+![requestsentanonsec](https://user-images.githubusercontent.com/78624983/201806240-591390e2-0958-4d5c-85d3-2ae21b19c1e3.PNG)
 
 ➢ Come Usare anonsec 💻 
 
