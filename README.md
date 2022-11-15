@@ -3,18 +3,18 @@
 
 
 
-⚠️ L'uso di anonsec per attaccare obiettivi senza previo consenso reciproco è illegale.
+#⚠️ L'uso di anonsec per attaccare obiettivi senza previo consenso reciproco è illegale.
 
-⚠️ È responsabilità dell'utente finale rispettare tutte le leggi locali, statali e federali applicabili.
+#⚠️ È responsabilità dell'utente finale rispettare tutte le leggi locali, statali e federali applicabili.
 
-💢 Gli sviluppatori non si assumono alcuna responsabilità e non sono responsabili per eventuali abusi o danni causati da questo programma.
+#💢 Gli sviluppatori non si assumono alcuna responsabilità e non sono responsabili per eventuali abusi o danni causati da questo programma.
 
 ➢ Telegram AnonSecIta: https://t.me/AnonSecITA
           
 
 ![requestsentanonsec](https://user-images.githubusercontent.com/78624983/201806240-591390e2-0958-4d5c-85d3-2ae21b19c1e3.PNG)
 
-➢ Come Usare anonsec 💻 
+#➢ Come Usare anonsec 💻 
 
 1) git clone https://github.com/anovni/anonsec.git
 
