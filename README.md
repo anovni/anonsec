@@ -7,7 +7,7 @@
 
 💢 Gli sviluppatori non si assumono alcuna responsabilità e non sono responsabili per eventuali abusi o danni causati da questo programma.
 
-➢ Telegram: https://t.me/DDoS_attack_AR_WWANON
+➢ Telegram AnonSecIta: https://t.me/AnonSecITA
           
 
 ![anonsec](https://user-images.githubusercontent.com/78624983/184732626-5087e9fb-1bc0-47c8-939f-fad35f0aa6c0.PNG)
